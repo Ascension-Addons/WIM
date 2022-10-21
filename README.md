@@ -1,3 +1,3 @@
-# Addon Name
+# WIM (Wow Instant Messenger)
 
-This is the repository for <Addon Name>. Modified for Ascension.gg. 
+This is the repository for WIM. Modified for Ascension.gg. 
